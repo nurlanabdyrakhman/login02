@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540748163224",
+    "project_id": "nurdar-login02",
+    "storage_bucket": "nurdar-login02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540748163224:android:6d6b60c1a44860f780c8ed",
+        "android_client_info": {
+          "package_name": "com.example.login02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540748163224-9vvprs8o23lmenjm03u054uqhvhh77h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWS-hZTQGGd2BKIoE-IqqVxf5cZfiQUnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540748163224-9vvprs8o23lmenjm03u054uqhvhh77h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
